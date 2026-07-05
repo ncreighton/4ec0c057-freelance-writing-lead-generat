@@ -1,2 +1,28 @@
-# 4ec0c057-freelance-writing-lead-generat
-manually copying data between apps and rebuilding the same process every time costs you real money. This n8n automation workflow pays for itself in one use.  Import the JSON, set your credentials, click activate. Running in minutes. Connects to 400+ apps via n8n's built-in integrations — no custom code needed.  ## What's Included  - Freelance Writi
+# Freelance Writing Lead Generation and Outreach Automation n8n Workflow
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRm7sL9z92k4bRSdI0cZF0Q)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRm7sL9z92k4bRSdI0cZF0Q)
+
